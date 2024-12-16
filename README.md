@@ -42,7 +42,7 @@ To run this game, you need:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Catch-The-Ball
+   cd atch-The-Ball
    ```
 3. Install the required libraries:
    ```bash
@@ -50,7 +50,7 @@ To run this game, you need:
    ```
 4. Run the game:
    ```bash
-   python catch_the_ball.py
+   python main.py
    ```
 
 ---
@@ -63,7 +63,7 @@ To run this game, you need:
 ## 📂 Project Structure
 ```plaintext
 Catch-The-Ball/
-├── catch_the_ball.py     # Main game code
+├── main.py               # Main game code
 ├── README.md             # Project documentation
 ├── requirements.txt      # Dependencies (if needed)
 └── .gitignore            # Git ignore file
